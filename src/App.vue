@@ -3,7 +3,7 @@
     <Navbar app></Navbar>
 
     <v-main>
-      <Keeper | By Coderable/>
+      <Keeper/>
     </v-main>
     
   </v-app>
