@@ -1,7 +1,7 @@
 <template>
   <nav>
     <v-app-bar app tile color="navbarColor" :height="height">
-      <h1 style="letter-spacing:5px;" class="px-1">Keeper</h1>
+      <h1 style="letter-spacing:5px;" class="px-1">Keeper | By Coderable</h1>
       <v-spacer></v-spacer>
 
       <!--theme-->
