@@ -48,14 +48,7 @@
 
               <li>Privacy-focused - We'll never collect your precious data.</li>
 
-              <li>
-                It's
-                <a
-                  style="text-decoration:none;"
-                  target="_blank"
-                  href="https://github.com/sumitkolhe/keeper"
-                >open-source!</a>
-              </li>
+              
             </ul>
 
             <v-card-actions>
